@@ -1,6 +1,6 @@
-# hyll_test
+# hyll_app
 
-Hyll Mobile app test
+Hyll Mobile app
 
 ## Getting Started
 
