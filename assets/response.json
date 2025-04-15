@@ -1,0 +1,2122 @@
+{
+    "count": 100,
+    "next": "https://api.hyll.com/api/adventures/?limit=10&offset=10",
+    "previous": null,
+    "data": [
+        {
+            "id": 1,
+            "pk": 1,
+            "status": "live",
+            "title": "To the ibexes at Augstmatthorn",
+            "area_location": {
+                "name": "Habkern",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "starting_location": {
+                "name": "Habkern",
+                "subtitle": null,
+                "distance": null,
+                "image_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/locations/Habkern_qfpdd6"
+            },
+            "tags": [
+                "earth",
+                "suitableforeveryone",
+                "friends",
+                "family",
+                "solo",
+                "outdoor",
+                "free",
+                "extended_discover_content_hike",
+                "Topadv_CW32",
+                "imported_oa"
+            ],
+            "activity": "Hiking",
+            "activity_id": 10,
+            "primary_image": "",
+            "primary_video": "",
+            "thumbnail": "",
+            "activity_icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/activities/noun-hiker_24px_2x_mfkdgf",
+            "badges": [],
+            "bucket_list_count": 385,
+            "contents": [
+                {
+                    "id": "caff250b-d1ca-476d-a11d-057ae510b523",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_PRIMARY_IMAGE",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/719/45301757_n7zfmt",
+                    "content_source": {
+                        "id": "036b99d6-b486-41cd-a964-26a2b13a4525",
+                        "title": "Berner Wanderwege",
+                        "author": null,
+                        "name": null,
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "f1d3df67-96dc-449c-ad26-f99a84c2762c",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/722/57267007_vzhdum",
+                    "content_source": {
+                        "id": "c7966f53-58e7-4922-a081-ffb306ff8352",
+                        "title": "Interlaken Tourismus",
+                        "author": "Mike Kaufmann",
+                        "name": "Mike Kaufmann",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "8dd32c73-838e-47a2-b6d5-b9d494b17b47",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/721/57267005_ckloni",
+                    "content_source": {
+                        "id": "913e20f6-ba0f-4fd5-8b70-e73d8fed1ae1",
+                        "title": "Interlaken Tourismus",
+                        "author": "Mike Kaufmann",
+                        "name": "Mike Kaufmann",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "18c04c44-e245-4ad1-96af-4a49b94aacc9",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/720/57267221_qyb1hi",
+                    "content_source": {
+                        "id": "9ed461a9-2543-410d-bc3b-63aea756151b",
+                        "title": "Interlaken Tourismus",
+                        "author": "Mike Kaufmann",
+                        "name": "Mike Kaufmann",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "4abef259-3d1a-4672-87e1-38969e3e018d",
+                    "content_type": "VIDEO",
+                    "content_mode": "ADVENTURE_PRIMARY_VIDEO",
+                    "content_url": "https://res.cloudinary.com/hyll/video/upload/v1/media/adventures/prod/1/ADV-30_Trailer_B_zp3cu5",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "1c6b4a30-c5e2-4fc2-a2ba-64061db40ccb",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_STATIC_MAP",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/1/8483672_static_map_egyz83",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                }
+            ],
+            "supply_info": {
+                "supplier_name": null,
+                "price_title": "Free",
+                "price_subtitle": "Share with friends",
+                "button_type": "share",
+                "link": null
+            },
+            "grid_info": [
+                {
+                    "name": "difficulty",
+                    "value": "Difficult",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/green111_jxt8an_nv8vwf_sr4cpy",
+                    "schema": "difficult"
+                },
+                {
+                    "name": "duration",
+                    "value": "06:30 h",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/clock-time-four_aeqdah"
+                },
+                {
+                    "name": "distance",
+                    "value": "16.2 km",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-left-right_ppmcbh_dfhdm8"
+                },
+                {
+                    "name": "ascent",
+                    "value": "1113 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-uphill_mkva9h_zw6llb"
+                },
+                {
+                    "name": "descent",
+                    "value": "1129 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-downhill_lpcfei_qgozrn"
+                }
+            ],
+            "ticket_optional": false,
+            "bucket_listed_by_following": [],
+            "primary_description": "Mountain hike across magnificent alpine meadows to one of the most beautiful vantage points above Lake Brienz and to the largest colony of rock deer in the Bernese Oberland.",
+            "description": "The starting point of this wonderful hike is the post office in Habkern. There you keep slightly downhill to the bridge that spans the deeply cut Traubach. In the forest you follow the little road to Bolsiten, but at the junction you have to keep right over the Bolbach. At the edge of the forest on a footpath uphill over the sunny slopes and in a long curve to the huts of Schwendallmi. Beautiful view back to a part of Habkern and the long Güggisgrat. After about 10 minutes the first variants are offered (to Bodmi-Horet/Läger-Habkern 2:20 h; to Bodmi-Horet/Läger-Harder Kulm 2:45 h). The path continues gently upwards over meadows until you have to walk on the little road again about 1 km before Lombachalp. The ascent to the Augstmatthorn can be seen in its entire length from here. After the big left turn, leave the little road in the direction of Lombach. The path now climbs up to Bodmisegg (after Bodmi-Schwendallmi-Habkern 1:10 h, after Bodmi-Horet/Läger-Habkern 2:50 h, after Bodomi-Horet/Läger-Horetegg-Harder 2:30 h). But the real, sweaty climb is still to come! The path zigzags (after Tritt-Niederried 3 h, after Tritt-Ober Horet-Harder 2:30 h) to the ridge height and then stretches as a well visible ridge path to the Augstmatthorn lookout. The view from up here is one of the most beautiful in the whole Lake Brienz area. Deep below lies the long, narrow lake basin, beyond the lake rise the Schynige Platte and Faulhorn ranges, behind them the snow giants of the main range of the Bernese Alps in their most beautiful splendor. Particularly interesting is also the view towards the north into the catchment area of the Emme, on the Hohgant and towards the west into the Habkern valley. Over the ridge the path now leads southwestwards to Suggiture and very steeply down to Tritt (after Niederried 2:30 h). The view down to Bödeli, the alluvial plain between Lake Brienz and Lake Thun, is magnificent. The high trail over Horetegg (to Ringgenberg 2:15 h) and Ober Horet (to Harderkulm 1:15 h) allows magnificent low and distant views on both sides of the ridge. The descent to the hut in the Horet Läger is very steep, and for the following 400 m descent to the valley floor, not even 1 km of trail is needed. From Tschieme via Schwendi and Bolsiten you return to Habkern over magnificent alpine pastures. From there the bus takes you back to Interlaken.",
+            "facts": []
+        },
+        {
+            "id": 16,
+            "pk": 16,
+            "status": "live",
+            "title": "Spectacular Via Ferrata at Eiger Rotstock (K2)",
+            "area_location": {
+                "name": "Grindelwald",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "starting_location": {
+                "name": "Station Eigergletscher",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "tags": [
+                "earth",
+                "adrenaline",
+                "friends",
+                "solo",
+                "outdoor",
+                "rented",
+                "auto_import",
+                "imported_oa"
+            ],
+            "activity": "Via Ferrata",
+            "activity_id": 23,
+            "primary_image": "",
+            "primary_video": "",
+            "thumbnail": "",
+            "activity_icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/activities/carabiner_pnbinb",
+            "badges": [],
+            "bucket_list_count": 301,
+            "contents": [
+                {
+                    "id": "eecd4619-b216-48b4-b62b-467aa9fba0ad",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_PRIMARY_IMAGE",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/16/rotstock-via-ferrata-eiger-02699.jpg.optimal_ejcycp",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "22087d37-c5cb-40a8-8d02-2b1fd76d50d7",
+                    "content_type": "VIDEO",
+                    "content_mode": "ADVENTURE_PRIMARY_VIDEO",
+                    "content_url": "https://res.cloudinary.com/hyll/video/upload/v1/media/adventures/prod/16/ADV-37_Trailer_B_w4fytc",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "2c87fbaf-2db1-463d-997e-486704158fa0",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_STATIC_MAP",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/2c87fbaf-2db1-463d-997e-486704158fa0/2222_IMAGE_P04FY0S2WP_jpqpai_wywnv7",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                }
+            ],
+            "supply_info": {
+                "supplier_name": "Intersport Terminal",
+                "price_title": "",
+                "price_subtitle": null,
+                "button_type": "hyll",
+                "link": null
+            },
+            "grid_info": [
+                {
+                    "name": "difficulty",
+                    "value": "Easy",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/green111_jxt8an_nv8vwf_u0dkav",
+                    "schema": "easy"
+                },
+                {
+                    "name": "duration",
+                    "value": "02:00 h",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/clock-time-four_aeqdah"
+                },
+                {
+                    "name": "distance",
+                    "value": "2.9 km",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-left-right_ppmcbh_dfhdm8"
+                },
+                {
+                    "name": "ascent",
+                    "value": "420 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-uphill_mkva9h_zw6llb"
+                },
+                {
+                    "name": "descent",
+                    "value": "447 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-downhill_lpcfei_qgozrn"
+                }
+            ],
+            "ticket_optional": true,
+            "bucket_listed_by_following": [],
+            "primary_description": "Experience a great climbing adventure in the shadow of the Eiger north face.",
+            "description": "The starting point is the station Eigergletscher. From there, follow the Eiger Trail up to the Grasschulter Wart. Here, a trail branches off in the direction of the striking indentation between the Eiger and Rotstock. The section to the entrance takes about 45 min. Once at the rock, mount your climbing harness and helmet, and climb secured towards the summit of the Grosser Rotstock (2663 m.a.s.l.). Follow the wire ropes, and you have already climbed the first ascent. Continue over stair-like steps and ribbons to the Eiger west flank. From here, you continue over the east ridge, and in a few minutes you have reached the summit. The descent leads you over the east ridge back to the west flank. Now the usual descent of the Eiger Westflanke over scree and slab steps (cairns and fixed ropes) leads you back to the Eigergletscher station.",
+            "facts": []
+        },
+        {
+            "id": 17,
+            "pk": 17,
+            "status": "live",
+            "title": "Challenging hike to Morgenberghorn",
+            "area_location": {
+                "name": "Aeschiried",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "starting_location": {
+                "name": "Aeschiried",
+                "subtitle": null,
+                "distance": null,
+                "image_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/locations/Aeschiried_akqwly"
+            },
+            "tags": [
+                "earth",
+                "free",
+                "friends",
+                "solo",
+                "outdoor",
+                "extended_discover_content_hike",
+                "imported_oa"
+            ],
+            "activity": "Hiking",
+            "activity_id": 10,
+            "primary_image": "",
+            "primary_video": "",
+            "thumbnail": "",
+            "activity_icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/activities/noun-hiker_24px_2x_mfkdgf",
+            "badges": [],
+            "bucket_list_count": 256,
+            "contents": [
+                {
+                    "id": "3bf4265a-d21b-48d8-8374-37abd45e8e7c",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_PRIMARY_IMAGE",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/909/24370427_byqyge",
+                    "content_source": {
+                        "id": "fd08b4bb-f1ed-418f-83f9-d19721da86de",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "63ee5d24-6971-4994-adf1-63fddc52fdb5",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/887/24370428_vluakn",
+                    "content_source": {
+                        "id": "96fee4c0-3ac5-4463-a6af-740a8d095f83",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "bca431c2-f0ab-4de6-8b80-dcce0c810f93",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/883/41557629_p8pm83",
+                    "content_source": {
+                        "id": "13596dbd-36a3-4ddc-844f-a2f4aca0d88f",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "36c81dc2-b2cc-4e3f-80e3-73fee1d21e1d",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/892/41557613_tel2kd",
+                    "content_source": {
+                        "id": "c20d3a61-bc54-4952-936a-076ec57f89b4",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "145d7231-2684-4e92-bd9b-ab253952c514",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/888/41557611_b2yyvj",
+                    "content_source": {
+                        "id": "112e8109-e254-42f8-b999-a100102915ce",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "0caa45b9-41ca-4c5c-85a4-db01df5e1f1d",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/885/24370425_ksewzz",
+                    "content_source": {
+                        "id": "6fd27874-c648-40e8-b53c-18e3176618b2",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "dd370933-fd59-4d9e-938c-79df7035563a",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/884/24370426_jbwpiw",
+                    "content_source": {
+                        "id": "87e07298-89ca-4b2c-9f18-21560e319ddb",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "814683d7-de6e-4411-befe-6d614dc7d928",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/891/41557612_e3cotk",
+                    "content_source": {
+                        "id": "d4615f1a-ba60-4af4-9b29-63189046d383",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "639e9e47-3255-4776-a8c2-95f066d654f3",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/895/32229451_csytrs",
+                    "content_source": {
+                        "id": "3c0c62ac-1db5-433e-b883-f0fc43b9e572",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "6389d757-32ba-4062-881c-3a55abfbafb5",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/898/32229452_xoatrs",
+                    "content_source": {
+                        "id": "c67ca21a-4b4b-4948-bf34-f5d806f8fabf",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "6083fee2-f70a-4a98-b973-b74da9a77e39",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/890/41557615_eyddqq",
+                    "content_source": {
+                        "id": "8c7eec28-1811-42fb-8813-f54d90b4aaa3",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "5db270b9-e425-4ed0-9f96-b27cefc42026",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/897/32229453_c2xvlt",
+                    "content_source": {
+                        "id": "0e3fb3cf-b4f0-461d-a96d-839d14c56b46",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "3f9617ab-b8f8-4bde-a2ef-6132e2aa90b7",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/903/41557583_m1bhkg",
+                    "content_source": {
+                        "id": "0703c826-debe-4762-8a38-6776c2a0ce4e",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "36622c20-f722-4f63-add5-66b6faa60271",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/900/41557655_vmjmfa",
+                    "content_source": {
+                        "id": "d93da021-1147-45f2-8210-38304e585c19",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "c38c578d-125a-4682-9140-fad642748bc1",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/886/24370424_ey5ugv",
+                    "content_source": {
+                        "id": "63d36749-448e-4fea-9f77-10239e5026bd",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "8e90fd21-2685-4fa4-8de1-e2dda2f7c843",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/889/32229439_nsuhe7",
+                    "content_source": {
+                        "id": "b707bdaf-b07e-4253-8fcb-4f3a82fcd367",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "5752a235-dc5d-45f8-97b3-eab1aa47b890",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/907/24370445_mzha4t",
+                    "content_source": {
+                        "id": "85ff5508-3b05-40ea-bda6-11bfb3162c6b",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "5354fb43-878e-4ece-b7f1-bd6739c1e928",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/902/41557582_c2cm5m",
+                    "content_source": {
+                        "id": "1d65c774-936f-4a40-b402-5c20dc492054",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "2f8593af-d4a5-4730-843d-e9d24e04f96a",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/906/41557639_foeej7",
+                    "content_source": {
+                        "id": "eb356d6c-5e23-47a1-9249-98974abedf98",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "1850d3d8-69b1-411f-9136-90191da070b6",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/905/41557638_ugn76z",
+                    "content_source": {
+                        "id": "a11b739e-4e8b-4e67-96fb-0dd0342a72a6",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "12aba52e-536a-4c99-828e-cd600bd15737",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/908/25264638_i7sgjj",
+                    "content_source": {
+                        "id": "aa4ad20b-2209-4d94-ae66-5cf0cc3cfdd0",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "da389a20-64a0-44b9-bd5c-ef4e71a64785",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/896/41557662_qkghol",
+                    "content_source": {
+                        "id": "5ca5a50e-5add-4e65-b5ea-f535987802cd",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "59549915-6068-4a61-8b3a-5fb1aa1d10ae",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/899/32229440_decrhn",
+                    "content_source": {
+                        "id": "af14d379-9511-416d-8b23-883ff1a01062",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "03d5cd7a-ecfb-4555-9aaf-133c875e1c04",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/904/24370443_xfvvq2",
+                    "content_source": {
+                        "id": "c1500cee-d5a8-482a-8148-9040f27ec8aa",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "49eecbf9-6f3d-4097-aee1-a581130c39a5",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/882/41557627_ocvlhp",
+                    "content_source": {
+                        "id": "9dd59dcb-9428-49e7-8248-6f62c8d83d7e",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "c99a0649-2a01-4abd-8ef3-b5d80cbe8204",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/901/41557589_uduvtb",
+                    "content_source": {
+                        "id": "414d41d3-e57c-4d4f-914e-5b9f5e213676",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "3b741b07-4a61-49e5-b6ac-cb6e7b16c472",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/893/25247766_aslcoy",
+                    "content_source": {
+                        "id": "63a753ad-b72e-4051-a062-6dcf3147c896",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "ba684ea2-6482-4b1f-bd52-8252bd48434f",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/894/41557605_ziisld",
+                    "content_source": {
+                        "id": "033cc349-b2f6-4f78-b310-8759f0136aa8",
+                        "title": "Tourenplaner SCHWEIZ",
+                        "author": "Jochen Ihle",
+                        "name": "Jochen Ihle",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "7df8ef09-c050-4335-be3a-14ad22a0ed04",
+                    "content_type": "VIDEO",
+                    "content_mode": "ADVENTURE_PRIMARY_VIDEO",
+                    "content_url": "https://res.cloudinary.com/hyll/video/upload/v1/media/adventures/prod/17/ADV-36_Trailer_B_l2gjxf",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "c388297f-22cb-4204-a305-a9d3783c2452",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_STATIC_MAP",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/17/24370213_static_map_qpusbb",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                }
+            ],
+            "supply_info": {
+                "supplier_name": null,
+                "price_title": "Free",
+                "price_subtitle": "Share with friends",
+                "button_type": "share",
+                "link": null
+            },
+            "grid_info": [
+                {
+                    "name": "difficulty",
+                    "value": "Difficult",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/green111_jxt8an_nv8vwf_sr4cpy",
+                    "schema": "difficult"
+                },
+                {
+                    "name": "duration",
+                    "value": "07:00 h",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/clock-time-four_aeqdah"
+                },
+                {
+                    "name": "distance",
+                    "value": "17.6 km",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-left-right_ppmcbh_dfhdm8"
+                },
+                {
+                    "name": "ascent",
+                    "value": "1383 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-uphill_mkva9h_zw6llb"
+                },
+                {
+                    "name": "descent",
+                    "value": "1383 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-downhill_lpcfei_qgozrn"
+                }
+            ],
+            "ticket_optional": false,
+            "bucket_listed_by_following": [],
+            "primary_description": "Rewarding challenge with impressive views of lakes and mountains.",
+            "description": "\"Morgenberghorn 4 hrs. 30 min.\" The signpost at the schoolhouse in Aeschiried leaves no doubt: The way to the summit is long - and you want to get down again. Therefore, you should set off early. The first stopover is the Aeschispitz, a pretty vantage point. From there the trail leads you via Bireberg and Greberegg to the Brunnihütte. The Leissigen Ski Club runs the mountain hut with a dormitory. The northwestern flank of the Morgenberghorn towers mightily above Alp Brunni. A chain-secured chimney winds through the seemingly insurmountable bar. The easy climb through the \"Chemi\" goes quickly, then you climb the long west ridge to the summit. At the top there is a forged iron flag, painted with Swiss cross and Bernese bear. A summit book is also deposited. The Morgenberghorn presents you with a 360° panoramic view. Far below are the lakes of Thun and Brienz, surrounded by a whole series of hikeable peaks: Augstmatthorn, Niederhorn, Sigriswiler Rothorn, Niesen, Wätterlatte, Dreispitz and Schwalmere. At some point you should think about the descent, because the way back is still far. The descent is via the south ridge, partly secured by chains and scree. The deep views into the basins of Saxeten and Latrejenalp are impressive. At the Rengglipass, the transition from the Saxettal to the Suldtal, the leisurely part begins: over the alpine huts of Mittelberg, along the Latrejebach, to the viewing bench with a view of the 80-meter-high Pochtenfall. In a few minutes you descend to the Pochtenfall restaurant in Suld (1080 m), from here it's about an hour's walk out of the valley to Aeschiried. Buses run from there.",
+            "facts": []
+        },
+        {
+            "id": 18,
+            "pk": 18,
+            "status": "live",
+            "title": "Hike over the Allmegrat to the Bunderspitz",
+            "area_location": {
+                "name": "Kandersteg",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "starting_location": {
+                "name": "Kandersteg",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "tags": [
+                "earth",
+                "experience needed",
+                "friends",
+                "solo",
+                "outdoor",
+                "free",
+                "imported_oa"
+            ],
+            "activity": "Hiking",
+            "activity_id": 10,
+            "primary_image": "",
+            "primary_video": "",
+            "thumbnail": "",
+            "activity_icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/activities/noun-hiker_24px_2x_mfkdgf",
+            "badges": [],
+            "bucket_list_count": 112,
+            "contents": [
+                {
+                    "id": "d0a03269-75ab-43d0-8514-997092a162a5",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_PRIMARY_IMAGE",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/868/19834713_yqtg6k",
+                    "content_source": {
+                        "id": "58f9f5e4-8e54-464b-8176-a6b5c792ae90",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "e77f642f-8c61-4ace-a448-b7bf0e1020d5",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/855/19834695_umzjmm",
+                    "content_source": {
+                        "id": "411a0b34-e344-4729-9085-f0f6877f8ec1",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "a79bdf34-d168-479a-a37b-47d68e5d3e68",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/862/19834706_p6g4yg",
+                    "content_source": {
+                        "id": "e9b18114-4001-43f2-af4b-957118c25900",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "3cc373b0-cc3b-468e-8bda-cf200b043fa9",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/865/19834710_bso1rr",
+                    "content_source": {
+                        "id": "0708050b-84e4-406d-b733-0ab4bf7565e2",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "27e422a9-98c5-4dcf-b868-97c5a6b72634",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/858/19834700_jyzonp",
+                    "content_source": {
+                        "id": "231d282a-348c-4150-b336-23af28dfb3ff",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "8a7ea123-b600-4c63-8b34-671e4b1ea4f3",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/856/19834696_ie0vby",
+                    "content_source": {
+                        "id": "fc775416-4b07-41ff-a41e-96f38b520691",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "84fbdfff-527c-42ac-9a65-e8cca693aa8c",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/857/19834697_broph8",
+                    "content_source": {
+                        "id": "934605e3-8060-4aba-91e9-fad6ead8c0bf",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "7ecada55-74e5-4235-bc39-daa2cad10e14",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/867/19834712_x3yfdf",
+                    "content_source": {
+                        "id": "d8eaf24f-e7a4-411d-ba4d-e484c9d7a067",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "73ced18c-5e3a-4285-8b2e-314d739a69ce",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/854/19834693_xy7wvc",
+                    "content_source": {
+                        "id": "f0871ab4-8f37-47c2-b4be-50e497befb83",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "6c60ce97-b1a9-427f-b934-4afea56e582a",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/866/19834711_swkzx2",
+                    "content_source": {
+                        "id": "350ce5bc-64ab-421b-8497-5c6cefb23c6c",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "57c0f5ac-5359-4bea-9410-b82eb79a5c28",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/864/19834709_gsvbv0",
+                    "content_source": {
+                        "id": "e63f3b3c-7868-4d74-abd7-ee8405cb9289",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "14d024ba-6a5c-4688-84e0-068104cb1f3f",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/861/19834705_pxlk4p",
+                    "content_source": {
+                        "id": "f86f1e7f-0e9d-48e4-8277-86e977647c5b",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "eec5d410-fa08-4fdb-b6dd-9857dd940a2d",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/874/19834734_dtb43g",
+                    "content_source": {
+                        "id": "d927d9d3-d62f-49cc-8493-1a507bb16f60",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "ce9bd95c-b4ee-48e2-9ae0-2081eeeac5a8",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/876/19834736_pgvesy",
+                    "content_source": {
+                        "id": "754409ef-9bac-4905-8a0e-642101a6f161",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "babba042-b67c-42ac-ac34-fe5dc0a83247",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/878/19834738_e5bsk1",
+                    "content_source": {
+                        "id": "e8c05f35-347d-4629-8717-bdf01010cc3c",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "9cb5ffb1-b8f8-446d-9a9f-10269b3d3a04",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/871/19834717_dr9chs",
+                    "content_source": {
+                        "id": "c1f85933-b28f-416a-888e-c02d68a3a4da",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "9c681bcf-591a-4998-a8d2-c761c93cf43e",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/863/19834707_pm8wun",
+                    "content_source": {
+                        "id": "82f705ef-aea9-4270-a8bb-ef50a565f55d",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "79aa160e-2f28-444c-944e-177e675fbd12",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/879/19834739_nt482o",
+                    "content_source": {
+                        "id": "42a0c1f0-0366-4b40-adb3-8fa1011ad8ad",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "67e12f26-a87d-4722-b44b-d772c68e4922",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/873/19834733_sudgeh",
+                    "content_source": {
+                        "id": "e252f747-ff6d-4d2f-adc8-69649f20a897",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "f8fb13b6-1639-489f-bac4-56345ff9a96b",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/852/19834691_plmrlj",
+                    "content_source": {
+                        "id": "53b4901c-9d7e-4be3-b418-1ad3ef4dc411",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "e7449dcb-7d7f-4585-b4f6-573fa3d6875e",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/859/19834701_wauqgc",
+                    "content_source": {
+                        "id": "b9926787-4c52-4f04-803a-684392e02035",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "f9ab4460-374b-4fb2-95a1-7e15178ddf71",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/853/19834692_zyfocp",
+                    "content_source": {
+                        "id": "c847b20e-b44a-4445-adaa-38789774ab0a",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "c0cb9dae-4e55-45c2-b39c-cd757a1f0030",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/875/19834735_gjpwts",
+                    "content_source": {
+                        "id": "425ec34d-9197-40fc-a0ce-9c365aa5650b",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "08e5c965-d172-449e-bf31-22a8bcac13f6",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/877/19834737_hd7p0q",
+                    "content_source": {
+                        "id": "cb513b09-006c-4e04-9f86-767b8503251a",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "f7add87c-a1b2-47e6-b83b-fd1e2150189e",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/872/19834718_awq1ie",
+                    "content_source": {
+                        "id": "fc223b1a-3344-45e5-b9a8-32f58dabedee",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "f3fbb051-4b12-4f52-882b-9bc8bb71bbf1",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/870/19834716_lfe3v6",
+                    "content_source": {
+                        "id": "76b6751e-530f-4325-90be-13bdc11db005",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "d1774b26-8045-46bf-b3c3-8c66e3f2b19d",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/860/19834702_pwhqt7",
+                    "content_source": {
+                        "id": "2e68dde6-67b4-41c8-ba95-067ce79ed6f6",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "a6a06b04-3d8b-4a2e-894f-19316b06e7f3",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/869/19834714_uhbxmx",
+                    "content_source": {
+                        "id": "2f586fba-c4be-4d91-b0e5-2e6685c43ebe",
+                        "title": "Community",
+                        "author": "Dominik Schittny",
+                        "name": "Dominik Schittny",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "041c57f3-2218-4cb4-95c8-683679e9679e",
+                    "content_type": "VIDEO",
+                    "content_mode": "ADVENTURE_PRIMARY_VIDEO",
+                    "content_url": "https://res.cloudinary.com/hyll/video/upload/v1/media/adventures/prod/18/ADV-98_Trailer_B_bvtacm",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "89350c30-1677-49f3-947d-008ad6243f2d",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_STATIC_MAP",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/18/107649721_static_map_uypdk3",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                }
+            ],
+            "supply_info": {
+                "supplier_name": null,
+                "price_title": "Free",
+                "price_subtitle": "Share with friends",
+                "button_type": "share",
+                "link": null
+            },
+            "grid_info": [
+                {
+                    "name": "difficulty",
+                    "value": "Difficult",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/green111_jxt8an_nv8vwf_sr4cpy",
+                    "schema": "difficult"
+                },
+                {
+                    "name": "duration",
+                    "value": "11:30 h",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/clock-time-four_aeqdah"
+                },
+                {
+                    "name": "distance",
+                    "value": "15.7 km",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-left-right_ppmcbh_dfhdm8"
+                },
+                {
+                    "name": "ascent",
+                    "value": "1670 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-uphill_mkva9h_zw6llb"
+                },
+                {
+                    "name": "descent",
+                    "value": "1670 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-downhill_lpcfei_qgozrn"
+                }
+            ],
+            "ticket_optional": false,
+            "bucket_listed_by_following": [],
+            "primary_description": "A very varied and scenic hike. However, conditionally and technically very demanding! Key point is certainly the partly extremely narrow and steep Allmegrat.",
+            "description": "From Kandersteg you take the cable car up to Allmenalp. For about 2 h you follow the marked hiking trail to First. Follow the summit trail and after a short time the trail leaves the ridge going downhill. A little to the left of the ridge you will find some more tracks until you reach the first rock passage. From here to the Bunderspitz, follow a very narrow and dangerous passage, hiking trails or markings no longer exist. This route should only be taken by very experienced hikers with alpine experience and appropriate equipment. Once you have reached the Bunderspitz, follow the marked hiking trail back to Allmenalp. A detailed description of the route can be found below.",
+            "facts": []
+        },
+        {
+            "id": 19,
+            "pk": 19,
+            "status": "live",
+            "title": "Panoramic Hike on Niederhorn",
+            "area_location": {
+                "name": "Merligen",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "starting_location": {
+                "name": "Bergstation Niederhorn",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "tags": [
+                "earth",
+                "suitableforeveryone",
+                "friends",
+                "family",
+                "solo",
+                "outdoor",
+                "free",
+                "extended_discover_content_hike"
+            ],
+            "activity": "Hiking",
+            "activity_id": 10,
+            "primary_image": "",
+            "primary_video": "",
+            "thumbnail": "",
+            "activity_icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/activities/noun-hiker_24px_2x_mfkdgf",
+            "badges": [
+                {
+                    "title": "Loved",
+                    "icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/badges/favorite_24px_lddu0v",
+                    "color_scheme": "tertiary"
+                }
+            ],
+            "bucket_list_count": 462,
+            "contents": [
+                {
+                    "id": "123f0ccd-2112-48cf-828e-5a748bae098f",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_PRIMARY_IMAGE",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/19/Screenshot_2021-05-03_at_07.29.06_p1gktd",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "590e61a5-bb9a-4093-9aa6-774634d02e75",
+                    "content_type": "VIDEO",
+                    "content_mode": "ADVENTURE_PRIMARY_VIDEO",
+                    "content_url": "https://res.cloudinary.com/hyll/video/upload/v1/media/adventures/prod/19/ADV-47_Trailer_B_zslp8f",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                }
+            ],
+            "supply_info": {
+                "supplier_name": null,
+                "price_title": "Free",
+                "price_subtitle": "Share with friends",
+                "button_type": "share",
+                "link": null
+            },
+            "grid_info": [
+                {
+                    "name": "difficulty",
+                    "value": "Easy",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/green111_jxt8an_nv8vwf_u0dkav",
+                    "schema": "easy"
+                },
+                {
+                    "name": "duration",
+                    "value": "02:15 h",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/clock-time-four_aeqdah"
+                },
+                {
+                    "name": "distance",
+                    "value": "7.6 km",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-left-right_ppmcbh_dfhdm8"
+                },
+                {
+                    "name": "ascent",
+                    "value": "80 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-uphill_mkva9h_zw6llb"
+                },
+                {
+                    "name": "descent",
+                    "value": "800 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-downhill_lpcfei_qgozrn"
+                }
+            ],
+            "ticket_optional": false,
+            "bucket_listed_by_following": [],
+            "primary_description": "Experience a varied hike on Beatenberg's local mountain.",
+            "description": "You reach the Niederhorn with the cable car from Beatenberg. Before you make your way down, you should definitely climb up to the lookout point. You will be rewarded with a magnificent view over Lake Thun and the world-famous Eiger, Mönch and Jungfrau. Back at the mountain station Niederhorn you have the opportunity to strengthen yourself before the hike in the Berghaus. The panoramic trail then leads constantly downhill over the Güggisgrat and is easily doable for everyone. With a bit of luck you might even pass ibexes, chamois or marmots. After about 2 h you will reach Beatenberg. The bus from \"Beatenberg Waldegg\" takes you back to the valley station in 15 min. ",
+            "facts": []
+        },
+        {
+            "id": 21,
+            "pk": 21,
+            "status": "live",
+            "title": "Adrenalin Via Ferrata - Mürren (K3)",
+            "area_location": {
+                "name": "Mürren",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "starting_location": {
+                "name": "Mürren",
+                "subtitle": null,
+                "distance": null,
+                "image_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/locations/Murren_lpzyae"
+            },
+            "tags": [
+                "earth",
+                "experience needed",
+                "adrenaline",
+                "friends",
+                "solo",
+                "outdoor",
+                "rented",
+                "auto_import",
+                "imported_oa"
+            ],
+            "activity": "Via Ferrata",
+            "activity_id": 23,
+            "primary_image": "",
+            "primary_video": "",
+            "thumbnail": "",
+            "activity_icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/activities/carabiner_pnbinb",
+            "badges": [
+                {
+                    "title": "Loved",
+                    "icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/badges/favorite_24px_lddu0v",
+                    "color_scheme": "tertiary"
+                }
+            ],
+            "bucket_list_count": 316,
+            "contents": [
+                {
+                    "id": "6e10e184-a4c5-42ba-ac50-11a842974114",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_PRIMARY_IMAGE",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/21/via-ferrata-murren-gimmelwald-0099715.jpg.optimal_arrpj2",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "c8f6dc0a-e40f-4e13-9bc0-b51dca4bfec9",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/c8f6dc0a-e40f-4e13-9bc0-b51dca4bfec9/21_IMAGE_2OS8SXXH0I_muygdk",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "5cb4ea0d-a0dd-4719-91c2-279c3807302f",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/5cb4ea0d-a0dd-4719-91c2-279c3807302f/21_IMAGE_HU8PAKRWH6_ece2ob",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "dffd40e4-8580-4607-b12c-ae347ba7b11f",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/dffd40e4-8580-4607-b12c-ae347ba7b11f/21_IMAGE_RG3QWBX0PL_rvxlbo",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "835a073f-9da4-445a-9bff-1b73da39c78f",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/835a073f-9da4-445a-9bff-1b73da39c78f/21_IMAGE_97KLIAVE67_kkcvi7",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "4ddcb428-29da-40b7-b776-2da902413ae6",
+                    "content_type": "VIDEO",
+                    "content_mode": "ADVENTURE_PRIMARY_VIDEO",
+                    "content_url": "https://res.cloudinary.com/hyll/video/upload/v1/media/adventures/prod/21/ADV-26_Trailer_B_ztjqvh",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "1865704a-9b36-41e5-a9a3-4c5158188595",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_STATIC_MAP",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/1865704a-9b36-41e5-a9a3-4c5158188595/2211_IMAGE_GB4S1LM3KN_fir69u_cce12t",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                }
+            ],
+            "supply_info": {
+                "supplier_name": null,
+                "price_title": "",
+                "price_subtitle": null,
+                "button_type": "hyll",
+                "link": null
+            },
+            "grid_info": [
+                {
+                    "name": "duration",
+                    "value": "03:00 h",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/clock-time-four_aeqdah"
+                },
+                {
+                    "name": "distance",
+                    "value": "1.8 km",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-left-right_ppmcbh_dfhdm8"
+                },
+                {
+                    "name": "ascent",
+                    "value": "1 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-uphill_mkva9h_zw6llb"
+                },
+                {
+                    "name": "descent",
+                    "value": "340 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-downhill_lpcfei_qgozrn"
+                }
+            ],
+            "ticket_optional": true,
+            "bucket_listed_by_following": [],
+            "primary_description": "Spectacular Via Ferrata with a view of the Bernese 4000m peaks.",
+            "description": "What's special about this via ferrata is not only the unique view, but also the fact that you're going down, not up. The via ferrata begins far above the Lauterbrunnen valley in Mürren. It shines with many passages on walls that jut downwards for what feels like 100 m. Due to the elaborately prepared belays, there is nevertheless no danger if the equipment is used correctly. So you can look forward to a huge adrenaline kick. After about 2.5 - 3 h you will reach the intermediate station Gimmelwald, which will bring you back to Mürren or Stechelberg. ",
+            "facts": [
+                {
+                    "name": "Altitude difference",
+                    "value": "300",
+                    "unit": "m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-expand-vertical_keuwbc",
+                    "display_section": "grid",
+                    "fact_definition_id": 9,
+                    "adventure_fact_id": 78,
+                    "background_color": null,
+                    "icon_color": null,
+                    "text_color": null
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "pk": 22,
+            "status": "live",
+            "title": "Panoramic hike from Mülenen to the Niesen",
+            "area_location": {
+                "name": "Mülenen",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "starting_location": {
+                "name": "Mülenen",
+                "subtitle": null,
+                "distance": null,
+                "image_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/locations/Muelenen_l1sndm"
+            },
+            "tags": [
+                "earth",
+                "experience needed",
+                "friends",
+                "family",
+                "solo",
+                "outdoor",
+                "free",
+                "extended_discover_content_hike",
+                "imported_oa"
+            ],
+            "activity": "Hiking",
+            "activity_id": 10,
+            "primary_image": "",
+            "primary_video": "",
+            "thumbnail": "",
+            "activity_icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/activities/noun-hiker_24px_2x_mfkdgf",
+            "badges": [
+                {
+                    "title": "Loved",
+                    "icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/badges/favorite_24px_lddu0v",
+                    "color_scheme": "tertiary"
+                }
+            ],
+            "bucket_list_count": 1346,
+            "contents": [
+                {
+                    "id": "2d97e662-0a3a-4447-813e-6efd106de901",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_PRIMARY_IMAGE",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/880/36015232_d9spix",
+                    "content_source": {
+                        "id": "e2814cd3-98e8-4ef0-bb3a-349d22c45b32",
+                        "title": "Interlaken Tourismus",
+                        "author": "Melanie Studer",
+                        "name": "Melanie Studer",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "4d26cb3e-bdf7-4dc1-8dda-854a356c86ed",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_GALLERY",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/881/36015233_isz4s7",
+                    "content_source": {
+                        "id": "811298dc-d80a-43ed-99c9-46dbdf11ffd1",
+                        "title": "Interlaken Tourismus",
+                        "author": "Melanie Studer",
+                        "name": "Melanie Studer",
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "96c702b6-2dda-4613-842a-d64883dc9fa7",
+                    "content_type": "VIDEO",
+                    "content_mode": "ADVENTURE_PRIMARY_VIDEO",
+                    "content_url": "https://res.cloudinary.com/hyll/video/upload/v1/media/adventures/prod/22/ADV-84_Trailer_B_uzoaqv",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "3b36ad9a-d273-4a76-8ae2-0a070602b8e7",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_STATIC_MAP",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/22/36014989_static_map_uyfz3p",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                }
+            ],
+            "supply_info": {
+                "supplier_name": null,
+                "price_title": "Free",
+                "price_subtitle": "Share with friends",
+                "button_type": "share",
+                "link": null
+            },
+            "grid_info": [
+                {
+                    "name": "difficulty",
+                    "value": "Difficult",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/green111_jxt8an_nv8vwf_sr4cpy",
+                    "schema": "difficult"
+                },
+                {
+                    "name": "duration",
+                    "value": "04:02 h",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/clock-time-four_aeqdah"
+                },
+                {
+                    "name": "distance",
+                    "value": "7.7 km",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-left-right_ppmcbh_dfhdm8"
+                },
+                {
+                    "name": "ascent",
+                    "value": "1650 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-uphill_mkva9h_zw6llb"
+                }
+            ],
+            "ticket_optional": false,
+            "bucket_listed_by_following": [],
+            "primary_description": "A long, with 1,700 meters of altitude demanding mountain hike from Mülenen via the Schwandegg middle station and on to the Niesen.",
+            "description": "From the valley station in Mülenen at 692 m above sea level you follow the hiking trail along the route of the Niesenbahn. The hiking trail winds mainly through the forest until the Schwandegg middle station at 1,669 m above sea level. In summer it remains pleasantly cool in the shade of the trees. From the Schwandegg middle station there are two options, either the direct, somewhat steeper hiking trail in about 2 hours up the Niesen. Or the slightly longer path with about 3 h hiking time, but less steep sections via the alp Oberniesen to Cheesbödi and further on to the Niesen at 2,362 m above sea level. At the top, the Berghaus Niesen Kulm offers seasonal and regional delicacies and a panoramic sun terrace. The nostalgic Niesen cable car then takes you on a 30-minute ride back to the starting point in Mülenen.",
+            "facts": []
+        },
+        {
+            "id": 23,
+            "pk": 23,
+            "status": "live",
+            "title": "Tobogganing with mountain view at Pfingstegg",
+            "area_location": {
+                "name": "Grindelwald",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "starting_location": {
+                "name": "Pfingstegg",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "tags": [
+                "earth",
+                "suitableforeveryone",
+                "friends",
+                "family",
+                "outdoor",
+                "rented"
+            ],
+            "activity": "Tobogganing",
+            "activity_id": 11,
+            "primary_image": "",
+            "primary_video": "",
+            "thumbnail": "",
+            "activity_icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/activities/Bergspass_Icon_zxxe07_itemus",
+            "badges": [
+                {
+                    "title": "Loved",
+                    "icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/badges/favorite_24px_lddu0v",
+                    "color_scheme": "tertiary"
+                }
+            ],
+            "bucket_list_count": 467,
+            "contents": [
+                {
+                    "id": "3b9925d3-e310-45a8-8f2f-884a35e888c9",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_PRIMARY_IMAGE",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/23/GOPR0193_pfingstegg.ch_srkevs",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "0e71240e-fe41-4691-8501-97c731818135",
+                    "content_type": "VIDEO",
+                    "content_mode": "ADVENTURE_PRIMARY_VIDEO",
+                    "content_url": "https://res.cloudinary.com/hyll/video/upload/v1/media/adventures/prod/23/ADV-51_Trailer_msnjoe",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                }
+            ],
+            "supply_info": {
+                "supplier_name": null,
+                "price_title": "",
+                "price_subtitle": null,
+                "button_type": "hyll",
+                "link": null
+            },
+            "grid_info": [
+                {
+                    "name": "difficulty",
+                    "value": "Easy",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/green111_jxt8an_nv8vwf_u0dkav",
+                    "schema": "easy"
+                },
+                {
+                    "name": "distance",
+                    "value": "0.7 km",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-left-right_ppmcbh_dfhdm8"
+                }
+            ],
+            "ticket_optional": false,
+            "bucket_listed_by_following": [],
+            "primary_description": "Enjoy a ride on the toboggan run with a beautiful view.",
+            "description": "Starting point is the valley station of the Pfingstegg cable car. Here the cable car takes you to the mountain station in less than 5 minutes. The Pfingstegg can also be reached on foot from the valley in a good 50 min. You will find the toboggan run behind the mountain station. Race 725 m down the mountain and enjoy the unique mountain panorama during the ride. A lift will then take you back up to the start. A real fun for everyone!\n",
+            "facts": []
+        },
+        {
+            "id": 24,
+            "pk": 24,
+            "status": "live",
+            "title": "Hike from Schynige Platte to First",
+            "area_location": {
+                "name": "Interlaken",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "starting_location": {
+                "name": "Bergstation Zahnradbahn",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "tags": [
+                "earth",
+                "experience needed",
+                "friends",
+                "solo",
+                "outdoor",
+                "free",
+                "bernese_oberland",
+                "extended_discover_content_hike",
+                "imported_oa"
+            ],
+            "activity": "Hiking",
+            "activity_id": 10,
+            "primary_image": "",
+            "primary_video": "",
+            "thumbnail": "",
+            "activity_icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/activities/noun-hiker_24px_2x_mfkdgf",
+            "badges": [],
+            "bucket_list_count": 200,
+            "contents": [
+                {
+                    "id": "4995bcf4-fef2-4d50-af79-fdd88dea55ca",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_PRIMARY_IMAGE",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/910/2049803_akjd7v",
+                    "content_source": {
+                        "id": "a8ed7415-32b3-4b75-ac65-b95e1c644a24",
+                        "title": "Wandermagazin",
+                        "author": null,
+                        "name": null,
+                        "icon": null,
+                        "url": null,
+                        "creator": null
+                    },
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "d97ca01e-a76e-4617-b924-fea525dd696d",
+                    "content_type": "VIDEO",
+                    "content_mode": "ADVENTURE_PRIMARY_VIDEO",
+                    "content_url": "https://res.cloudinary.com/hyll/video/upload/v1/media/adventures/prod/24/ADV-43_Trailer_B_hjfbgv",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "bb25c89b-6223-4b6f-94fd-a5c80cc7704c",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_STATIC_MAP",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/24/1493760_static_map_trowyu",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                }
+            ],
+            "supply_info": {
+                "supplier_name": null,
+                "price_title": "Free",
+                "price_subtitle": "Share with friends",
+                "button_type": "share",
+                "link": null
+            },
+            "grid_info": [
+                {
+                    "name": "difficulty",
+                    "value": "Moderate",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/green111_jxt8an_nv8vwf_vemlok",
+                    "schema": "moderate"
+                },
+                {
+                    "name": "duration",
+                    "value": "06:00 h",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/clock-time-four_aeqdah"
+                },
+                {
+                    "name": "distance",
+                    "value": "15.9 km",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-left-right_ppmcbh_dfhdm8"
+                },
+                {
+                    "name": "ascent",
+                    "value": "730 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-uphill_mkva9h_zw6llb"
+                },
+                {
+                    "name": "descent",
+                    "value": "541 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-downhill_lpcfei_qgozrn"
+                }
+            ],
+            "ticket_optional": false,
+            "bucket_listed_by_following": [],
+            "primary_description": "There are classics among the mountain tours of the world. The tour from the Alpengarten over the Faulhorn with the oldest mountain hotel in Switzerland to the First is certainly one of them.",
+            "description": "The hike from Schynige Platte over Faulhorn to First is one of the top hikes in Switzerland and offers epic views. Starting from the mountain station Schynige Platte it leads you past the alpine huts of Oberberg to the western slope of the Loucherhorn. Continue over the Egg, along the Sägissa flank. Can you already see the small Sägistalsee? If so, you are on the right path. You continue past mountain restaurant Männdlenen, ascending to Fulegg. On the southern slope of the Faulhorn crest you continue until you reach the summit of the Faulhorn. Enjoy the breathtaking view of the Faulhorn and strengthen yourself for the descent. The steep descent leads you via Gassenboden to Lake Bachalp. Here, extensive pastures and numerous benches invite you to take a break in front of an overwhelming panorama. From here you hike on to the top station of the Grindelwald-First gondola, where you have reached your destination. The Firstbahn takes you back to Grindelwald, where buses and trains run at regular intervals.\n",
+            "facts": []
+        },
+        {
+            "id": 25,
+            "pk": 25,
+            "status": "live",
+            "title": "Fascination Trift Bridge - Hike to Windegg Hut",
+            "area_location": {
+                "name": "Gadmen",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "starting_location": {
+                "name": "Bergstation Triftbahn",
+                "subtitle": null,
+                "distance": null,
+                "image_url": null
+            },
+            "tags": [
+                "earth",
+                "suitableforeveryone",
+                "adrenaline",
+                "free",
+                "outdoor",
+                "friends",
+                "family",
+                "solo",
+                "extended_discover_content_hike",
+                "Topadv_CW28",
+                "imported_oa"
+            ],
+            "activity": "Hiking",
+            "activity_id": 10,
+            "primary_image": "",
+            "primary_video": "",
+            "thumbnail": "",
+            "activity_icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/activities/noun-hiker_24px_2x_mfkdgf",
+            "badges": [
+                {
+                    "title": "Loved",
+                    "icon": "https://res.cloudinary.com/hyll/image/upload/v1/media/badges/favorite_24px_lddu0v",
+                    "color_scheme": "tertiary"
+                }
+            ],
+            "bucket_list_count": 893,
+            "contents": [
+                {
+                    "id": "cf31ad5a-f871-4335-8af6-ae745f75ad09",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_PRIMARY_IMAGE",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/25/Bildschirmfoto_2021-06-07_um_13.49.39_i64gsw",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "351a4181-3031-4277-93d5-8699d316fb0e",
+                    "content_type": "VIDEO",
+                    "content_mode": "ADVENTURE_PRIMARY_VIDEO",
+                    "content_url": "https://res.cloudinary.com/hyll/video/upload/v1/media/adventures/prod/25/ADV-29_Trailer_B_hehcoi",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                },
+                {
+                    "id": "7a177316-e91e-4e62-9f16-30c29ac08a08",
+                    "content_type": "IMAGE",
+                    "content_mode": "ADVENTURE_STATIC_MAP",
+                    "content_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/prod/25/33120148_static_map_b0io1o",
+                    "content_source": null,
+                    "is_header_for_the_plan": false,
+                    "is_private": false
+                }
+            ],
+            "supply_info": {
+                "supplier_name": null,
+                "price_title": "Free",
+                "price_subtitle": "Share with friends",
+                "button_type": "share",
+                "link": null
+            },
+            "grid_info": [
+                {
+                    "name": "difficulty",
+                    "value": "Moderate",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/green111_jxt8an_nv8vwf_vemlok",
+                    "schema": "moderate"
+                },
+                {
+                    "name": "duration",
+                    "value": "03:00 h",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/clock-time-four_aeqdah"
+                },
+                {
+                    "name": "distance",
+                    "value": "6.2 km",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/arrow-left-right_ppmcbh_dfhdm8"
+                },
+                {
+                    "name": "ascent",
+                    "value": "590 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-uphill_mkva9h_zw6llb"
+                },
+                {
+                    "name": "descent",
+                    "value": "582 m",
+                    "icon_url": "https://res.cloudinary.com/hyll/image/upload/v1/media/adventures/icons/slope-downhill_lpcfei_qgozrn"
+                }
+            ],
+            "ticket_optional": false,
+            "bucket_listed_by_following": [],
+            "primary_description": "This hike leads over the spectacular Trift Bridge.",
+            "description": "The hiking trail first leads to the valley floor, then climbs up to Bosslis Stein and continues over smooth granite slabs and rough boulders to the suspension bridge. With a total length of 170 meters, it swings spectacularly 100 meters above the gorge of the Triftwasser. The first steps take courage, but the larch planks are stable, and the wire netting on the sides provides moral support. On the other side of the bridge you can sign the bridge book, then it's back again and the \"Fascination Trift\" continues with the ascent to the Windegg hut. On the \"Ketteliweg\" you climb over rocky ledges, secured with ropes and chains, up to the Windegg hut (1887 m). After visiting the hut, you then descend on one of the three ascent variants back to the hiking trail and on this trail back to the Underi Trift mountain station.",
+            "facts": []
+        }
+    ]
+}
